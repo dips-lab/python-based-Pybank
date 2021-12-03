@@ -1,3 +1,1 @@
-# python-homework
-
-## Asignment 2 submission. Only PyBank home-assingment submitted.
+# python Exploration. Welcoming a new language skill.
