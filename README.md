@@ -1,1 +1,1 @@
-# python Exploration. Welcoming a new language skill.
+# Python Exploration. Welcoming a new language skill.
